@@ -1,7 +1,5 @@
 # Sustainable-AI-Energy-Consumption-Prediction-Model
 
-# Sustainable AI Project
-
 ![Sustainable AI Banner](https://img.shields.io/badge/AI-Sustainable-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Python](https://img.shields.io/badge/python-3.11-blue)
